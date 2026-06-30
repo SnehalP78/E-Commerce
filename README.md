@@ -15,5 +15,5 @@ The E-Commerce Slight Dashboard is an interactive Power BI dashboard built to an
 - 📋 Product Performance Table
 - 📈 Daily Sales Trend (Sparklines)
 - 📉 Growth Percentage Analysis
-! [Image]()
+! [Image](https://github.com/SnehalP78/E-Commerce/blob/main/Report.png)
 
